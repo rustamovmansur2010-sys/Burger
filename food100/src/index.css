@@ -1,0 +1,7 @@
+
+/* Agar xohlasang, qo‘shimcha global stil qo‘shish mumkin */
+
+@import "tailwindcss";
+body {
+  font-family: 'Montserrat', sans-serif;
+}
